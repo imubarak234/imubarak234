@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**imubarak234/imubarak234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Twitter Badge Linkedin Badge Mail Badge Mail Badge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at Lanasoft Technologies
+- 💻 I’m currently a student at Microverse 
+- 🌱 I’m currently learning Full stack web development
+- 👯 I’m looking to collaborate on any projects
+- 🤔 I’m looking for help to become a better programmer 
+- 💬 Ask me about anything
+- 📫 How to reach me: imubarak2424@gmail.com
+- 😄 Pronouns: Just "He" is fine
+
+                                                                                                   
