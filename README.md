@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Twitter Badge Linkedin Badge Mail Badge Mail Badge
-
 - 🔭 I’m currently working at Lanasoft Technologies
 - 💻 I’m currently a student at Microverse 
 - 🌱 I’m currently learning Full stack web development
