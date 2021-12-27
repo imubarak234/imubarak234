@@ -11,3 +11,13 @@
 - 😄 Pronouns: Just "He" is fine
 
                                                                                                    
+[![Mubarak's GitHub stats](https://github-readme-stats.vercel.app/api?username=imubarak234&count_private=true&show_icons=true)](https://github.com/imubarak234/imubarak234/edit/main/README.md)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imubarak234&langs_count=8)](https://github.com/imubarak234/imubarak234/edit/main/README.md)
+
+<a href="https://github.com/imubarak234/imubarak234/edit/main/README.md">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imubarak234&repo=imubarak234" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
