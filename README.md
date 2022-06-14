@@ -25,9 +25,9 @@ const mb = {
 ```
 <br>
 
-- 🔭 I’m currently working at Lanasoft Technologies
-- 💻 I’m currently a student at Microverse 
-- 🌱 I’m currently learning Full stack web development
+- 🔭 I’m currently working at Thermolink Concepts Limited
+- 💻 I’m currently a FullStack Web Developer 
+- 🌱 I’m currently learning Node.JS
 - 👯 I’m looking to collaborate on any projects
 - 🤔 I’m looking for help to become a better programmer 
 - 💬 Ask me about anything
