@@ -33,11 +33,15 @@ const mb = {
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+[![Website](https://img.shields.io/badge/Website-porfolio.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://imubarak234.github.io/Portfolio2.0/)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+<br>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
 
 - 🔭 I’m currently working at Thermolink Concepts Limited
 - 💻 I’m currently a FullStack Web Developer 
