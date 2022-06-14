@@ -6,6 +6,25 @@
 [![GitHub](https://img.shields.io/github/followers/mubarak?label=follow&style=social)](https://github.com/imubarak234)
 ![Mubarak site](https://user-images.githubusercontent.com/71400898/147658789-ea499bbc-3cef-474e-95c3-ba2b9965b37a.jpg)
 
+<br>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const mb = {
+  pronouns: "He" | "Him",
+  code: [Javascript, HTML, CSS, Ruby, PHP, Java],
+  tools: [React, Redux, Node, Rails, Heroku, Jest, Bootstrap],
+  architecture: ["event-driven", "design system pattern"],
+  degree/schools: {
+    'BSC Computer Science',
+    'FreeCodeCamp Certifications',
+    'Microverse Remote College'
+  } ,
+}
+```
+<br>
+
 - 🔭 I’m currently working at Lanasoft Technologies
 - 💻 I’m currently a student at Microverse 
 - 🌱 I’m currently learning Full stack web development
