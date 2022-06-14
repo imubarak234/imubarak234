@@ -1,5 +1,7 @@
-# Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;I+Build+Dependable+Software;I+Aim+To+Learn+And+Grow)](https://git.io/typing-svg)
+
+# <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" /> Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;I+Build+Dependable+Software;I+Aim+To+Learn+And+Grow&color=565656)](https://git.io/typing-svg)
 <br>
 [![Twitter: Mubarak](https://img.shields.io/twitter/follow/Mubarak?style=social)](https://twitter.com/Mubarak91269616)
 [![Linkedin: Mubarak](https://img.shields.io/badge/-mubarak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mubarak-ibrahim-mb/)](https://www.linkedin.com/in/mubarak-ibrahim-mb/)
