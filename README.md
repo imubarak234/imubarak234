@@ -1,5 +1,5 @@
 
-# <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" /> Hi there 👋
+# <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;I+Build+Dependable+Software;I+Aim+To+Learn+And+Grow&color=565656)](https://git.io/typing-svg)
 <br>
