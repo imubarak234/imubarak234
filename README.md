@@ -1,6 +1,5 @@
 
 ![Mubarak site](https://user-images.githubusercontent.com/71400898/147658789-ea499bbc-3cef-474e-95c3-ba2b9965b37a.jpg)
-# <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+GitHub+Profile;I+Build+Dependable+Software;I+Aim+To+Learn+And+Grow&color=565656)](https://git.io/typing-svg)
 <br>
@@ -27,6 +26,7 @@ const mb = {
 }
 ```
 <br>
+# <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 
 ## 🚀💻 Technologies & Tools
 
